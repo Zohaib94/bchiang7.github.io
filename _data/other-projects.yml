@@ -1,6 +1,6 @@
 - name: AudioSocket
   url: https://audiosocket.com/
-  description: Online Music Licensing and Marketplace Service for the works of Independent Artists.
+  description: Online Music Licensing and Marketplace Service for the works of Independent Artists. I was responsible for Full-Stack Development and communication with the remote team.
   used:
     - thing: React (Hooks, Context API)
     - thing: Axios
@@ -11,7 +11,7 @@
 
 - name: CrowdThnk
   url: https://www.crowdthnk.com
-  description: Online platform to provide accurate current positioning of stocks and future prediction regarding investing in stocks.
+  description: Online platform to provide accurate current positioning of stocks and future prediction regarding investing in stocks. I was responsible for development and maintenance, task tracking, estimation of cards, manual testing and client communication to elicit requirements.
   used:
     - thing: Ruby on Rails
     - thing: Background Jobs
@@ -21,7 +21,7 @@
 
 - name: ScanShake
   url: https://www.scanshake.com/
-  description: Digital CV Submission and Applicant Analysis tool for Recruiters and Applicants at Job Fairs.
+  description: Digital CV Submission and Applicant Analysis tool for Recruiters and Applicants at Job Fairs. I was responsible for development of the API for iOS and Android apps.
   used:
     - thing: Ruby on Rails
     - thing: REST API
@@ -32,7 +32,7 @@
 
 - name: ESTA.FR
   url: https://www.esta.fr/
-  description: Online application for Electronic System of Travel Authorization for United States of America.
+  description: Online application for Electronic System of Travel Authorization for United States of America. I was responsible for migration of the application from Contentful to Ruby on Rails and maintenance of the form on other ESTA sites.
   used:
     - thing: Ruby on Rails
     - thing: HTML
@@ -42,7 +42,7 @@
 - name: RelaxTest
   url: https://glacial-mountain-43074.herokuapp.com/
   code: https://github.com/Zohaib94/relaxtest
-  description: App Developed for a recruitment process in Rails 6.
+  description: App Developed for a recruitment process in Rails 6. Tests are written using RSpec.
   used:
     - thing: Ruby on Rails
     - thing: RSpec
@@ -52,7 +52,7 @@
 - name: NodeJSAPIAdCash
   url: https://nodejs-api-adcash.herokuapp.com/api/v1
   code: https://github.com/Zohaib94/nodejs-api-adcash
-  description: REST API Developed in Node.JS for a recruitment process.
+  description: REST API Developed in Node.JS for a recruitment process. Tests are written using Jest.
   used:
     - thing: Node.JS
     - thing: Express
@@ -62,7 +62,7 @@
 
 - name: TaksoNEW
   code: https://github.com/Zohaib94/taksonew
-  description: Basic Boilerplate Code for Phoenix projects
+  description: Basic Boilerplate Code for Phoenix projects. Feature tests were written using Gherkin.
   used:
     - thing: Elixir
     - thing: Phoenix
