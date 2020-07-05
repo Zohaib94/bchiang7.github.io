@@ -42,7 +42,7 @@
 - name: RelaxTest
   url: https://glacial-mountain-43074.herokuapp.com/
   code: https://github.com/Zohaib94/relaxtest
-  description: App Developed for a recruitement process in Rails 6.
+  description: App Developed for a recruitment process in Rails 6.
   used:
     - thing: Ruby on Rails
     - thing: RSpec
