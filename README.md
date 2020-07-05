@@ -1,3 +1,4 @@
+All credit for creating the beautiful template goes to [Brittany Chiang](https://www.github.com/bchiang7)
 # v3
 
 Third iteration of my personal website built with Jekyll.
