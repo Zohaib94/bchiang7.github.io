@@ -1,33 +1,39 @@
 languages:
+  - item: Ruby
   - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
+  - item: CoffeeScript
   - item: SQL
-  - item: R
+  - item: MySQL
+  - item: PostGRESQL
+  - item: CSS/Sass
+  - item: HTML
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Ruby on Rails
+  - item: React.JS (Hooks & Redux)
+  - item: Bootstrap
+  - item: Node (Express)
+  - item: Sinatra
 
 tools:
+  - item: RSpec
   - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
+  - item: Git
+  - item: GitHub
+  - item: GitLab
+  - item: Bitbucket
   - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
+  - item: Trello
+  - item: Asana
+  - item: JIRA
+  - item: Slack
+  - item: Skype
+  - item: Zoom
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+skills_at_ut:
+  - item: Java (Spring)
+  - item: Python (Pandas, Numpy, SciKit)
+  - item: Elixir (Phoenix)
+  - item: F# (Functional Programming)
+  - item: Basic Data Science Algorithms

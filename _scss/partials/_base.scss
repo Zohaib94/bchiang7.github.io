@@ -53,6 +53,26 @@ body {
     .section__content .underline-link:after {
       background: $off-white;
     }
+    .github-link {
+      @include transition;
+      font-weight: 700;
+      display: inline-block;
+      background-color: transparent;
+      white-space: nowrap;
+      &:after {
+        @include transition;
+        position: relative;
+        bottom: 2px;
+        margin-left: 15px;
+        content: '';
+        background: url('../img/social/github-light.png') no-repeat center;
+        background-size: 100%;
+        width: 25px;
+        height: 25px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
   }
 }
 
@@ -194,6 +214,27 @@ strong {
   }
   &:hover:after {
     transform: translateX(7px);
+  }
+}
+
+.github-link {
+  @include transition;
+  font-weight: 700;
+  display: inline-block;
+  background-color: transparent;
+  white-space: nowrap;
+  &:after {
+    @include transition;
+    position: relative;
+    bottom: 2px;
+    margin-left: 15px;
+    content: '';
+    background: url('../img/social/github-dark.png') no-repeat center;
+    background-size: 100%;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
   }
 }
 

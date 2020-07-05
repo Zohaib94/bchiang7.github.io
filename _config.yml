@@ -1,26 +1,20 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Zohaib Ahmed Butt
+title: Zohaib Ahmed Butt | Full-Stack Developer
+description: Developer focused on providing beautiful code that meets requirements
+url: https://zohaibahmedbutt.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
+email: zohaibahmedbutt@gmail.com
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
+    url: mailto:zohaibahmedbutt@gmail.com
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/zohaib94
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/zohaib94
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/zohaib-ahmed-46197261/
 
 # Build settings
 markdown: kramdown
